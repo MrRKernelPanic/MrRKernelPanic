@@ -1,16 +1,21 @@
-### Hi there 👋
+### ✨ The Github of a teacher and Lifelong learner ✨
+### 🌱 I’m currently learning how to use python to interact with APIs (JSON and XML)
+### 💬 Ask me about Raspberry Pis, Linux and 3D Printing (FDM)
+### ⚡ Fun fact: Still amazed by the kindness of others.
+
+
 
 <!--
-**MrRKernelPanic/MrRKernelPanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MrRKernelPanic/MrRKernelPanic** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
