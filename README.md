@@ -1,4 +1,4 @@
-##### ✨ The Github of a teacher and Lifelong learner ✨
+##### ✨ The Github of a (ex)teacher and Lifelong learner ✨
 ##### 🌱 I’m currently learning how to use python to interact with APIs (JSON and XML)
 ##### 💬 Ask me about Raspberry Pis, Linux and 3D Printing (FDM)
 ##### ⚡ Fun fact: Still amazed by the kindness of others.
